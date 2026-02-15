@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.hf_cache/
+outputs/
+models/
+checkpoints/
+*.safetensors
+*.bin
+.ipynb_checkpoints/
+agents/unsloth_compiled_cache/
+hf_models/

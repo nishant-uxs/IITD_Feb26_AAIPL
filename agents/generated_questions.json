@@ -1,0 +1,262 @@
+[
+  {
+    "topic": "Seating Arrangements",
+    "question": "Six friends sit around a circular table facing the center. Ishaan sits at position 1 counting clockwise from the top. Farah sits immediately to the left of Ishaan. Eshan sits immediately to the right of Ishaan. Ishaan sits immediately to the left of Eshan. Aarav sits immediately to the right of Eshan. Eshan sits immediately to the left of Aarav. Jia sits immediately to the right of Aarav. Aarav sits immediately to the left of Jia. Diya sits immediately to the right of Jia. Jia sits immediately to the left of Diya. Farah sits immediately to the right of Diya. Diya sits immediately to the left of Farah. Ishaan sits immediately to the right of Farah. Who sits immediately to the left of Aarav?",
+    "choices": [
+      "A) Aarav",
+      "B) Jia",
+      "C) Ishaan",
+      "D) Eshan"
+    ],
+    "answer": "D",
+    "explanation": "The circular arrangement is ['Ishaan', 'Eshan', 'Aarav', 'Jia', 'Diya', 'Farah']. Eshan sits to the left of Aarav.",
+    "latency_seconds": 0.001
+  },
+  {
+    "topic": "Seating Arrangements",
+    "question": "Six friends sit around a circular table facing the center. Aarav sits at position 1 counting clockwise from the top. Gopal sits immediately to the left of Aarav. Farah sits immediately to the right of Aarav. Aarav sits immediately to the left of Farah. Jia sits immediately to the right of Farah. Farah sits immediately to the left of Jia. Ishaan sits immediately to the right of Jia. Jia sits immediately to the left of Ishaan. Heena sits immediately to the right of Ishaan. Ishaan sits immediately to the left of Heena. Gopal sits immediately to the right of Heena. Heena sits immediately to the left of Gopal. Aarav sits immediately to the right of Gopal. Who sits immediately to the left of Gopal?",
+    "choices": [
+      "A) Gopal",
+      "B) Jia",
+      "C) Heena",
+      "D) Aarav"
+    ],
+    "answer": "C",
+    "explanation": "The circular arrangement is ['Aarav', 'Farah', 'Jia', 'Ishaan', 'Heena', 'Gopal']. Heena sits to the left of Gopal.",
+    "latency_seconds": 0.001
+  },
+  {
+    "topic": "Seating Arrangements",
+    "question": "Six friends sit around a circular table facing the center. Eshan sits at position 1 counting clockwise from the top. Ishaan sits immediately to the left of Eshan. Diya sits immediately to the right of Eshan. Eshan sits immediately to the left of Diya. Jia sits immediately to the right of Diya. Diya sits immediately to the left of Jia. Gopal sits immediately to the right of Jia. Jia sits immediately to the left of Gopal. Chirag sits immediately to the right of Gopal. Gopal sits immediately to the left of Chirag. Ishaan sits immediately to the right of Chirag. Chirag sits immediately to the left of Ishaan. Eshan sits immediately to the right of Ishaan. Who sits immediately to the left of Ishaan?",
+    "choices": [
+      "A) Diya",
+      "B) Jia",
+      "C) Chirag",
+      "D) Ishaan"
+    ],
+    "answer": "C",
+    "explanation": "The circular arrangement is ['Eshan', 'Diya', 'Jia', 'Gopal', 'Chirag', 'Ishaan']. Chirag sits to the left of Ishaan.",
+    "latency_seconds": 0.001
+  },
+  {
+    "topic": "Seating Arrangements",
+    "question": "Six friends sit around a circular table facing the center. Ishaan sits at position 1 counting clockwise from the top. Eshan sits immediately to the left of Ishaan. Chirag sits immediately to the right of Ishaan. Ishaan sits immediately to the left of Chirag. Jia sits immediately to the right of Chirag. Chirag sits immediately to the left of Jia. Aarav sits immediately to the right of Jia. Jia sits immediately to the left of Aarav. Diya sits immediately to the right of Aarav. Aarav sits immediately to the left of Diya. Eshan sits immediately to the right of Diya. Diya sits immediately to the left of Eshan. Ishaan sits immediately to the right of Eshan. Who sits immediately to the left of Ishaan?",
+    "choices": [
+      "A) Eshan",
+      "B) Aarav",
+      "C) Jia",
+      "D) Diya"
+    ],
+    "answer": "A",
+    "explanation": "The circular arrangement is ['Ishaan', 'Chirag', 'Jia', 'Aarav', 'Diya', 'Eshan']. Eshan sits to the left of Ishaan.",
+    "latency_seconds": 0.001
+  },
+  {
+    "topic": "Seating Arrangements",
+    "question": "Six friends sit around a circular table facing the center. Heena sits at position 1 counting clockwise from the top. Diya sits immediately to the left of Heena. Gopal sits immediately to the right of Heena. Heena sits immediately to the left of Gopal. Jia sits immediately to the right of Gopal. Gopal sits immediately to the left of Jia. Aarav sits immediately to the right of Jia. Jia sits immediately to the left of Aarav. Eshan sits immediately to the right of Aarav. Aarav sits immediately to the left of Eshan. Diya sits immediately to the right of Eshan. Eshan sits immediately to the left of Diya. Heena sits immediately to the right of Diya. Who sits immediately to the left of Eshan?",
+    "choices": [
+      "A) Gopal",
+      "B) Eshan",
+      "C) Jia",
+      "D) Aarav"
+    ],
+    "answer": "D",
+    "explanation": "The circular arrangement is ['Heena', 'Gopal', 'Jia', 'Aarav', 'Eshan', 'Diya']. Aarav sits to the left of Eshan.",
+    "latency_seconds": 0.001
+  },
+  {
+    "topic": "Blood Relations",
+    "question": "Ishaan is the parent of Aarav. Aarav is the father of Jia. Diya is the mother of Jia. Aarav is the father of Bela. Ishaan is the parent of Farah. Farah is the father of Eshan. Diya is the mother of Bela. What is Eshan's relation to Bela?",
+    "choices": [
+      "A) grandson",
+      "B) brother",
+      "C) uncle",
+      "D) cousin"
+    ],
+    "answer": "D",
+    "explanation": "Based on the family tree, Eshan is the cousin of Bela.",
+    "latency_seconds": 0.0
+  },
+  {
+    "topic": "Blood Relations",
+    "question": "Jia is the mother of Farah. Eshan is the father of Gopal. Jia is the mother of Chirag. Heena is the parent of Eshan. Ishaan is the father of Chirag. Ishaan is the father of Farah. Heena is the parent of Ishaan. What is Chirag's relation to Gopal?",
+    "choices": [
+      "A) sister",
+      "B) nephew",
+      "C) grandson",
+      "D) cousin"
+    ],
+    "answer": "D",
+    "explanation": "Based on the family tree, Chirag is the cousin of Gopal.",
+    "latency_seconds": 0.0
+  },
+  {
+    "topic": "Blood Relations",
+    "question": "Aarav is the mother of Gopal. Aarav is the mother of Heena. Ishaan is the parent of Chirag. Chirag is the father of Gopal. Ishaan is the parent of Jia. Jia is the father of Eshan. Chirag is the father of Heena. What is Heena's relation to Ishaan?",
+    "choices": [
+      "A) cousin",
+      "B) grandson",
+      "C) granddaughter",
+      "D) sister"
+    ],
+    "answer": "B",
+    "explanation": "Based on the family tree, Heena is the grandson of Ishaan.",
+    "latency_seconds": 0.0
+  },
+  {
+    "topic": "Blood Relations",
+    "question": "Bela is the father of Gopal. Heena is the mother of Farah. Eshan is the parent of Bela. Eshan is the parent of Ishaan. Ishaan is the father of Chirag. Heena is the mother of Gopal. Bela is the father of Farah. What is Chirag's relation to Farah?",
+    "choices": [
+      "A) grandson",
+      "B) sister",
+      "C) nephew",
+      "D) cousin"
+    ],
+    "answer": "D",
+    "explanation": "Based on the family tree, Chirag is the cousin of Farah.",
+    "latency_seconds": 0.0
+  },
+  {
+    "topic": "Blood Relations",
+    "question": "Aarav is the parent of Heena. Chirag is the father of Gopal. Ishaan is the mother of Gopal. Aarav is the parent of Chirag. Chirag is the father of Eshan. Heena is the father of Jia. Ishaan is the mother of Eshan. What is Gopal's relation to Jia?",
+    "choices": [
+      "A) grandson",
+      "B) cousin",
+      "C) sister",
+      "D) niece"
+    ],
+    "answer": "B",
+    "explanation": "Based on the family tree, Gopal is the cousin of Jia.",
+    "latency_seconds": 0.0
+  },
+  {
+    "topic": "Syllogisms",
+    "question": "Statements: 1) All artists are poets. 2) Some poets are painters. Which conclusion logically follows?",
+    "choices": [
+      "A) Some painters are artists.",
+      "B) No poets are painters.",
+      "C) Some artists are painters.",
+      "D) Some artists are not painters."
+    ],
+    "answer": "C",
+    "explanation": "The conclusion 'Some artists are painters.' logically follows from the given premises using set theory.",
+    "latency_seconds": 0.0
+  },
+  {
+    "topic": "Syllogisms",
+    "question": "Statements: 1) All dancers are artists. 2) Some artists are painters. Which conclusion logically follows?",
+    "choices": [
+      "A) Some dancers are not painters.",
+      "B) All painters are dancers.",
+      "C) Some dancers are painters.",
+      "D) All artists are dancers."
+    ],
+    "answer": "C",
+    "explanation": "The conclusion 'Some dancers are painters.' logically follows from the given premises using set theory.",
+    "latency_seconds": 0.0
+  },
+  {
+    "topic": "Syllogisms",
+    "question": "Statements: 1) All dancers are writers. 2) Some writers are painters. Which conclusion logically follows?",
+    "choices": [
+      "A) All writers are dancers.",
+      "B) No writers are painters.",
+      "C) Some dancers are painters.",
+      "D) No dancers are painters."
+    ],
+    "answer": "C",
+    "explanation": "The conclusion 'Some dancers are painters.' logically follows from the given premises using set theory.",
+    "latency_seconds": 0.0
+  },
+  {
+    "topic": "Syllogisms",
+    "question": "Statements: 1) All artists are writers. 2) Some writers are designers. Which conclusion logically follows?",
+    "choices": [
+      "A) No artists are designers.",
+      "B) Some artists are designers.",
+      "C) Some designers are artists.",
+      "D) All designers are artists."
+    ],
+    "answer": "B",
+    "explanation": "The conclusion 'Some artists are designers.' logically follows from the given premises using set theory.",
+    "latency_seconds": 0.0
+  },
+  {
+    "topic": "Syllogisms",
+    "question": "Statements: 1) All artists are writers. 2) Some writers are dancers. Which conclusion logically follows?",
+    "choices": [
+      "A) Some artists are dancers.",
+      "B) All writers are artists.",
+      "C) No artists are dancers.",
+      "D) Some artists are not dancers."
+    ],
+    "answer": "A",
+    "explanation": "The conclusion 'Some artists are dancers.' logically follows from the given premises using set theory.",
+    "latency_seconds": 0.0
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "Find the next term in the series: B4, C6, E9, H13, ?",
+    "choices": [
+      "A) L13",
+      "B) L18",
+      "C) M18",
+      "D) H18"
+    ],
+    "answer": "B",
+    "explanation": "The series follows: letters increase by [1, 2, 3, 4] and numbers increase by [2, 3, 4, 5], giving L18.",
+    "latency_seconds": 0.0
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "Find the next term in the series: A1, B3, D6, G10, ?",
+    "choices": [
+      "A) K15",
+      "B) K10",
+      "C) K16",
+      "D) L15"
+    ],
+    "answer": "A",
+    "explanation": "The series follows: letters increase by [1, 2, 3, 4] and numbers increase by [2, 3, 4, 5], giving K15.",
+    "latency_seconds": 0.0
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "Find the next term in the series: C1, D3, F6, I10, ?",
+    "choices": [
+      "A) I15",
+      "B) M16",
+      "C) M15",
+      "D) M10"
+    ],
+    "answer": "C",
+    "explanation": "The series follows: letters increase by [1, 2, 3, 4] and numbers increase by [2, 3, 4, 5], giving M15.",
+    "latency_seconds": 0.0
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "Find the next term in the series: B5, C7, E10, H14, ?",
+    "choices": [
+      "A) L20",
+      "B) L19",
+      "C) L14",
+      "D) M19"
+    ],
+    "answer": "B",
+    "explanation": "The series follows: letters increase by [1, 2, 3, 4] and numbers increase by [2, 3, 4, 5], giving L19.",
+    "latency_seconds": 0.0
+  },
+  {
+    "topic": "Mixed Series (Alphanumeric)",
+    "question": "Find the next term in the series: B3, C5, E8, H12, ?",
+    "choices": [
+      "A) L17",
+      "B) L18",
+      "C) L12",
+      "D) H17"
+    ],
+    "answer": "A",
+    "explanation": "The series follows: letters increase by [1, 2, 3, 4] and numbers increase by [2, 3, 4, 5], giving L17.",
+    "latency_seconds": 0.0
+  }
+]
